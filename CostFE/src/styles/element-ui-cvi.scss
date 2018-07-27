@@ -1,0 +1,41 @@
+/* theme color */
+//$--color-primary: teal;
+
+/* button */
+$--button-padding-vertical: 10px !default;
+$--button-padding-horizontal: 15px !default;
+
+$--button-small-padding-vertical: 7px !default;
+$--button-small-padding-horizontal: 9px !default;
+
+/* Input
+-------------------------- */
+$--input-height: 36px !default;
+
+/* icon font path, required */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import '~element-ui/packages/theme-chalk/src/index';
+
+.el-menu-item span,
+.el-submenu__title span {
+  padding-left: 0.5em;
+}
+
+.el-table th,
+.el-table td {
+  height: 40px;
+  padding: 0;
+}
+
+.el-dialog__body {
+  padding: 6px 6px;
+}
+
+.el-pagination {
+  margin-top: 0.5em;
+}
+
+/* 减少form行间距 */
+.el-form-item {
+  margin-bottom: 0.5em;
+}
