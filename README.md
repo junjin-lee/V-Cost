@@ -68,7 +68,9 @@ https://github.com/junjin-lee/V-Cost.git
 ```  
 
 2.找到项目中doc下的子目录db下有sql文件，可以导入到mongodb中
+
 3.在vs code中运行v-cost项目  
+
 4.进入到后端项目costBE目录中，在命令行依次输入如下命令：  
 
 ```
