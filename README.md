@@ -88,4 +88,10 @@ npm run serve
 **OK，至此，服务端就启动成功了，此时我们直接在地址栏输入```http://localhost:9528/```即可访问我们的项目**  
 **步骤4、5中需要大家对NodeJS、NPM等有一定的使用经验，不熟悉的小伙伴可以先自行搜索学习下，推荐[Vue官方教程](https://cn.vuejs.org/v2/guide/)。**  
 
+# License
 
+MIT
+
+**欢迎小伙伴们star、fork。**  
+
+关注公众号查看更多全栈资料：  
