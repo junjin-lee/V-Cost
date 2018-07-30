@@ -15,6 +15,22 @@
 
 ![登录](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/login.png)  
 
-## 用户列表
+## 用户管理
 
-![文章列表](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/user.png)  
+![用户管理](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/user.png)  
+
+## 类别管理
+
+![类别管理](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/category.png)  
+
+## 费用子项管理
+
+![费用子项管理](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/item.png)  
+
+## 成本管理
+
+![成本管理](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/cost.png)  
+
+## 报表管理
+
+![报表](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/report.png)  
