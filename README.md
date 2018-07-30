@@ -93,5 +93,4 @@ npm run serve
 MIT
 
 **欢迎小伙伴们star、fork。**  
-
-关注公众号查看更多全栈资料：  
+  
