@@ -57,3 +57,39 @@
 ## 报表管理
 
 ![报表](https://github.com/junjin-lee/V-Cost/blob/master/doc/images/report.png)  
+
+
+# 快速运行  
+
+1.克隆本项目到本地  
+
+```
+https://github.com/junjin-lee/V-Cost.git
+```  
+
+2.找到项目中doc下的子目录db下有sql文件，可以导入到mongodb中
+3.在vs code中运行v-cost项目  
+4.进入到后端项目costBE目录中，在命令行依次输入如下命令：  
+
+```
+# 安装依赖
+npm install
+
+# 在 localhost:8100 启动项目
+npm start
+``` 
+5.进入到前端项目costFE目录中，在命令行依次输入如下命令：  
+
+```
+# 安装依赖
+npm install
+
+# 在 localhost:9528 启动项目
+npm run serve
+```  
+ 
+
+**OK，至此，服务端就启动成功了，此时我们直接在地址栏输入```http://localhost:9528/```即可访问我们的项目**  
+**步骤4、5中需要大家对NodeJS、NPM等有一定的使用经验，不熟悉的小伙伴可以先自行搜索学习下，推荐[Vue官方教程](https://cn.vuejs.org/v2/guide/)。**  
+
+
