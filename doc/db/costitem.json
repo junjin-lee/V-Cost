@@ -1,0 +1,171 @@
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b49c4ee99442214e35a1dd1"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-14T17:26:27.695+08:00"),
+	"description" : "1111",
+	"item_name" : "设计",
+	"updateAt" : ISODate("2018-07-14T17:26:27.695+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acab9e97dac755dddaf1e"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "监理",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acac7e97dac755dddaf1f"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "造价咨询",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acad3e97dac755dddaf20"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "勘探检测",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acadee97dac755dddaf21"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "设备采购",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acae8e97dac755dddaf22"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "建安",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acaf5e97dac755dddaf23"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "维修",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb0be97dac755dddaf24"),
+	"category_name" : "能耗成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "水费",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb16e97dac755dddaf25"),
+	"category_name" : "能耗成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "电费",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb22e97dac755dddaf26"),
+	"category_name" : "能耗成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "燃气费",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb2ce97dac755dddaf27"),
+	"category_name" : "能耗成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "油费",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb40e97dac755dddaf28"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "家具",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb4fe97dac755dddaf29"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "窗帘",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb5ce97dac755dddaf2a"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "办公用品",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acb68e97dac755dddaf2b"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "五金水暖",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acba9e97dac755dddaf2c"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "工具",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acbb6e97dac755dddaf2d"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "布草",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acbc2e97dac755dddaf2e"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "设备配件",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5acbcfe97dac755dddaf2f"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.314+08:00"),
+	"description" : "",
+	"item_name" : "材料",
+	"updateAt" : ISODate("2018-07-25T17:47:51.314+08:00")
+},

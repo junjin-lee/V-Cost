@@ -1,0 +1,56 @@
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b47fd7e216381dea09628a1"),
+	"category_name" : "资本性支出",
+	"createAt" : ISODate("2018-07-13T09:16:36.636+08:00"),
+	"description" : "资本性支出description",
+	"updateAt" : ISODate("2018-07-13T09:16:36.636+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5aca5fe97dac755dddaf18"),
+	"category_name" : "设备维保",
+	"createAt" : ISODate("2018-07-25T17:47:51.312+08:00"),
+	"description" : "",
+	"updateAt" : ISODate("2018-07-25T17:47:51.312+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5aca6ee97dac755dddaf19"),
+	"category_name" : "服务外包",
+	"createAt" : ISODate("2018-07-25T17:47:51.312+08:00"),
+	"description" : "",
+	"updateAt" : ISODate("2018-07-25T17:47:51.312+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5aca7be97dac755dddaf1a"),
+	"category_name" : "能耗成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.312+08:00"),
+	"description" : "",
+	"updateAt" : ISODate("2018-07-25T17:47:51.312+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5aca85e97dac755dddaf1b"),
+	"category_name" : "采购成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.312+08:00"),
+	"description" : "",
+	"updateAt" : ISODate("2018-07-25T17:47:51.312+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5aca90e97dac755dddaf1c"),
+	"category_name" : "其他费用",
+	"createAt" : ISODate("2018-07-25T17:47:51.312+08:00"),
+	"description" : "",
+	"updateAt" : ISODate("2018-07-25T17:47:51.312+08:00")
+},
+{
+	"__v" : 0,
+	"_id" : ObjectId("5b5aca99e97dac755dddaf1d"),
+	"category_name" : "人力成本",
+	"createAt" : ISODate("2018-07-25T17:47:51.312+08:00"),
+	"description" : "",
+	"updateAt" : ISODate("2018-07-25T17:47:51.312+08:00")
+},
